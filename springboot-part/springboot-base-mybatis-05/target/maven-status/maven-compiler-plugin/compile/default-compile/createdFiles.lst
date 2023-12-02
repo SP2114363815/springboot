@@ -1,0 +1,6 @@
+com\atguigu\mapper\StudentMapper.class
+com\atguigu\Main.class
+com\atguigu\service\StudentService.class
+com\atguigu\controller\StudentController.class
+com\atguigu\pojo\Student.class
+com\atguigu\advice\LogAdvice.class

@@ -1,0 +1,17 @@
+
+
+
+
+server:
+  port: 8080
+  servlet:
+    context-path: /boot
+spp:
+  user:
+    gfs:
+      - a
+      - b
+      - c
+spring:
+  profiles:
+    active: test,dev
